@@ -4,8 +4,8 @@ This repository contains the manual implementation of a 3L Neural Network (3 lay
 
 
 
-##Mathematical Implementation
-I implemented the full backward pass using vectorized calculus to handle the dataset efficiently. The core update logic follows the chain rule for partial derivatives.
+## Mathematical Implementation
+Implemented the full backward pass using  calculus to handle the dataset efficiently. The core update logic follows the chain rule for partial derivatives.
 
 
 ##  Performance
