@@ -13,7 +13,4 @@ I implemented the full backward pass using vectorized calculus to handle the dat
 * **Limitation:** Accuracy is constrained probably by the low hidden layer neurons count (16 neurons) and the use of Sigmoid on the output layer instead of other functions like Softmax. 
 
 
-## How to Run
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/BurgeryJuice/Digit-Recogniser-and-Trainer.git](https://github.com/BurgeryJuice/Digit-Recogniser-and-Trainer.git)
+
