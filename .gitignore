@@ -1,2 +1,4 @@
 mnsit_weights.npz
 TrainerKag.py
+__pycache__/
+mnsit_weights.npz
