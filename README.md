@@ -9,8 +9,8 @@ Implemented the full backward pass using  calculus to handle the dataset efficie
 
 
 ##  Performance
-* **Accuracy:** Currently  **~84%**.
-* **Limitation:** Accuracy is constrained probably by the low hidden layer neurons count (16 neurons) and the use of Sigmoid on the output layer instead of other functions like Softmax. 
+* **Accuracy:** Currently  **~99.76**.
+
 
 
 
